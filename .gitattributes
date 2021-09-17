@@ -1,0 +1,5 @@
+ProjectSettings/GvhProjectSettings.xml eol=lf
+ProjectSettings/QualitySettings.asset eol=lf
+Packages/packages-lock.json eol=lf
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
